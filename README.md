@@ -18,6 +18,9 @@ Berikut preview dari jalan nya website ini :
 - HOME -
 ![pr1](https://github.com/giant-paw/20220140105_exercise_pdw1/assets/107108170/d5f032a2-d9fb-4251-8864-75582eceec3c)
 
+- SEARCH -
+![pr6](https://github.com/giant-paw/20220140105_exercise_pdw1/assets/107108170/d0900c29-d72d-4d7b-b26b-14238a2dac54)
+
 - ABOUT US -
 ![pr2](https://github.com/giant-paw/20220140105_exercise_pdw1/assets/107108170/d7fd3ac0-ae64-4457-8ac1-14ed5d836d13)
 
@@ -30,5 +33,3 @@ Berikut preview dari jalan nya website ini :
 - ALERT -
 ![pr5](https://github.com/giant-paw/20220140105_exercise_pdw1/assets/107108170/0aeab92e-e7e3-4fa7-b0d2-384c7bfe92c6)
 
-- SEARCH -
-![pr6](https://github.com/giant-paw/20220140105_exercise_pdw1/assets/107108170/d0900c29-d72d-4d7b-b26b-14238a2dac54)
